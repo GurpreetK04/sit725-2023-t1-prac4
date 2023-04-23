@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.4.1"
+  },
+  "name": "sit725-t1-2023-prac4",
+  "version": "1.0.0",
+  "description": "SIT 725 Practicals",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurpreetK04/sit725-2023-t1-prac4.git"
+  },
+  "keywords": [
+    "Express",
+    "Node"
+  ],
+  "author": "Gurpreet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GurpreetK04/sit725-2023-t1-prac4/issues"
+  },
+  "homepage": "https://github.com/GurpreetK04/sit725-2023-t1-prac4#readme"
+}
